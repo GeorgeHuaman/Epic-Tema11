@@ -6,11 +6,14 @@ using UnityEngine;
 
 public class KnockbackOnImpact : MonoBehaviour
 {
-    private void Update()
+
+    public void KnockBack()
     {
-        if(Input.GetKeyDown(KeyCode.E))
-        {
-            SpatialBridge.actorService.localActor.avatar.AddForce(new Vector3(0f, 10f, 0f));
-        }
+        SpatialBridge.actorService.localActor.avatar.AddForce(new Vector3(0f, 10f, 0f));
+    }
+
+    public void Jump()
+    {
+        SpatialBridge.actorService.localActor.avatar.AddForce(new Vector3(0f, 25f, 0f));
     }
 }

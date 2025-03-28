@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Proyectos\\Epic-Tema11\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Proyectos\\Epic-Tema11\\Library\\PackageCache\\io.spatial.unitysdk@1.65.0\\Runtime\\CoreModule\\Components\\SpatialInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\io.spatial.unitysdk@1.65.0\\Runtime\\CoreModule\\Components\\SpatialInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB3DB9BE-A5B5-AEF9-F4E8-DFE0E72FB531}|NewAssembly.csproj|e:\\proyectos\\epic-tema11\\assets\\scripts\\knockbackonimpact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB3DB9BE-A5B5-AEF9-F4E8-DFE0E72FB531}|NewAssembly.csproj|solutionrelative:assets\\scripts\\knockbackonimpact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SpatialInteractable.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Tema11\\Library\\PackageCache\\io.spatial.unitysdk@1.65.0\\Runtime\\CoreModule\\Components\\SpatialInteractable.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\io.spatial.unitysdk@1.65.0\\Runtime\\CoreModule\\Components\\SpatialInteractable.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Tema11\\Library\\PackageCache\\io.spatial.unitysdk@1.65.0\\Runtime\\CoreModule\\Components\\SpatialInteractable.cs",
+              "RelativeToolTip": "Library\\PackageCache\\io.spatial.unitysdk@1.65.0\\Runtime\\CoreModule\\Components\\SpatialInteractable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T20:19:28.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "KnockbackOnImpact.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Tema11\\Assets\\Scripts\\KnockbackOnImpact.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\KnockbackOnImpact.cs",
               "ToolTip": "E:\\Proyectos\\Epic-Tema11\\Assets\\Scripts\\KnockbackOnImpact.cs",
               "RelativeToolTip": "Assets\\Scripts\\KnockbackOnImpact.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T20:43:36.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Ragdoll.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Tema11\\Assets\\Scripts\\Ragdoll.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Ragdoll.cs",
