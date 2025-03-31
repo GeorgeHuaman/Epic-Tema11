@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: Space_1
   m_EditorClassIdentifier: 
   version: 1
-  sku: 
-  packageName: Tema11
-  thumbnail: {fileID: 2800000, guid: ec6e61a8993a64290991cfc322ec43ea, type: 3}
+  sku: y5ruxxcatm21jbj87bwbrv0e
+  packageName: "MAF - Subsala 11 Kids 1\xB0T"
+  thumbnail: {fileID: 2800000, guid: 48dd1d570c1f9004f8e8e3cd68196645, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
-  worldID: 
+  worldID: jladwpw3oiqfuy6ubouz7
   scene: {fileID: 102900000, guid: 583f62f9ce637584bbb08033ada80be5, type: 3}
   csharpAssembly: {fileID: 5897886265953266890, guid: 65e4b76cdc050fa469335b9f6b4f54f1,
     type: 3}

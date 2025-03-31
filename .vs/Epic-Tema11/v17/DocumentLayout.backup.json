@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\Proyectos\\Epic-Tema11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB3DB9BE-A5B5-AEF9-F4E8-DFE0E72FB531}|NewAssembly.csproj|e:\\proyectos\\epic-tema11\\assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB3DB9BE-A5B5-AEF9-F4E8-DFE0E72FB531}|NewAssembly.csproj|solutionrelative:assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB3DB9BE-A5B5-AEF9-F4E8-DFE0E72FB531}|NewAssembly.csproj|E:\\Proyectos\\Epic-Tema11\\assets\\scripts\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB3DB9BE-A5B5-AEF9-F4E8-DFE0E72FB531}|NewAssembly.csproj|solutionrelative:assets\\scripts\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EB3DB9BE-A5B5-AEF9-F4E8-DFE0E72FB531}|NewAssembly.csproj|E:\\Proyectos\\Epic-Tema11\\assets\\scripts\\knockbackonimpact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB3DB9BE-A5B5-AEF9-F4E8-DFE0E72FB531}|NewAssembly.csproj|solutionrelative:assets\\scripts\\knockbackonimpact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3DB9BE-A5B5-AEF9-F4E8-DFE0E72FB531}|NewAssembly.csproj|e:\\proyectos\\epic-tema11\\assets\\scripts\\selectteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3DB9BE-A5B5-AEF9-F4E8-DFE0E72FB531}|NewAssembly.csproj|solutionrelative:assets\\scripts\\selectteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3DB9BE-A5B5-AEF9-F4E8-DFE0E72FB531}|NewAssembly.csproj|E:\\Proyectos\\Epic-Tema11\\assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3DB9BE-A5B5-AEF9-F4E8-DFE0E72FB531}|NewAssembly.csproj|solutionrelative:assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Proyectos\\Epic-Tema11\\Library\\PackageCache\\io.spatial.unitysdk@1.65.0\\Runtime\\CoreModule\\Components\\SpatialInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +21,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Proyectos\\Epic-Tema11\\Assets\\Scripts\\Ragdoll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Ragdoll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\Epic-Tema11\\Assets\\Scripts\\Platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,29 +33,39 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "SelectTeam.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic-Tema11\\Assets\\Scripts\\SelectTeam.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SelectTeam.cs",
+              "ToolTip": "E:\\Proyectos\\Epic-Tema11\\Assets\\Scripts\\SelectTeam.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SelectTeam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:56:44.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CheckPoint.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Tema11\\Assets\\Scripts\\CheckPoint.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CheckPoint.cs",
               "ToolTip": "E:\\Proyectos\\Epic-Tema11\\Assets\\Scripts\\CheckPoint.cs",
               "RelativeToolTip": "Assets\\Scripts\\CheckPoint.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T21:20:23.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T21:20:23.334Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Platform.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic-Tema11\\Assets\\Scripts\\Platform.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Platform.cs",
-              "ToolTip": "E:\\Proyectos\\Epic-Tema11\\Assets\\Scripts\\Platform.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Platform.cs",
+              "DocumentMoniker": "D:\\Github\\Epic-Tema11\\Assets\\Scripts\\Platform.cs",
+              "ToolTip": "D:\\Github\\Epic-Tema11\\Assets\\Scripts\\Platform.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T20:50:05.76Z"
@@ -71,15 +84,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "KnockbackOnImpact.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic-Tema11\\Assets\\Scripts\\KnockbackOnImpact.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\KnockbackOnImpact.cs",
               "ToolTip": "E:\\Proyectos\\Epic-Tema11\\Assets\\Scripts\\KnockbackOnImpact.cs",
               "RelativeToolTip": "Assets\\Scripts\\KnockbackOnImpact.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T20:43:36.659Z"
+              "WhenOpened": "2025-03-27T20:43:36.659Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
